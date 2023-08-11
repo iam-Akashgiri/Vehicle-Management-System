@@ -1,0 +1,4 @@
+Python == 3.11.3
+Django == 4.2.4
+Name: django-crispy-forms == Version: 2.0
+Name: crispy-bootstrap4 == Version: 2022.1
