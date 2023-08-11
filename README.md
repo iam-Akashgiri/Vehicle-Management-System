@@ -36,5 +36,9 @@ vehicle management system with three different roles 1-super admin ,  2- admin ,
 ![dir-setup](https://github.com/iam-Akashgiri/Vehicle-Management-System/assets/136268468/07fee5f9-22b6-47f7-8879-b07403874a6a)
 
 
+# Greeting-Acoount-Openiing-Mail
+![Greeting-Mail](https://github.com/iam-Akashgiri/Vehicle-Management-System/assets/136268468/de81f38b-b303-425a-949b-f278e4b33342)
+
+
 
 
